@@ -1,34 +1,21 @@
-body {
-    color: wheat;
-    background-color: brown;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+* {
+    background-color: antiquewhite;
 }
 
-h1 {
-    color: aquamarine;
-    background-color: black;
+.title {
+    font-family: 'Times New Roman', Courier, monospace;
+    color: brown;
     font-weight: bold;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-ul {
-    background-color: aqua;
-    color: orange;
-    font-family: 'Courier New', Courier, monospace;
+.list-of-recipes {
+    color: chocolate;
 }
 
 li {
-    background-color: black;
-    color: red;
+    color: black;
 }
 
-#firstRecipe {
-    background-color: azure;
-    color: blueviolet;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-#secondRecipe, 
-#thirdRecipe {
-    background-color: aquamarine;
+a {
+    color: black;
 }
