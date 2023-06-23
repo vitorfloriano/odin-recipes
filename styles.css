@@ -1,11 +1,13 @@
 * {
     background-color: antiquewhite;
+    border: 2px solid red;
 }
 
 .title {
     font-family: 'Times New Roman', Courier, monospace;
     color: brown;
     font-weight: bold;
+    text-align: center;
 }
 
 .list-of-recipes {
