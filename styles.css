@@ -24,10 +24,12 @@ a {
 
 ul {
     display: block;
+    margin: auto;
+    padding: 20px;
 }
 
 img {
-    align:;
+    margin: auto;
 }
 
 .image-div {
