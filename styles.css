@@ -24,7 +24,11 @@ a {
 
 ul {
     margin: auto;
-    padding: 20px;
+    padding-left: 120px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 img {
@@ -33,4 +37,19 @@ img {
 
 .image-div {
     text-align: center;
+}
+
+#firstRecipe {
+    flex: 1;
+    align-self: flex-start;
+}
+
+#secondRecipe {
+    flex: 1;
+    align-self: flex-start;
+}
+
+#thirdRecipe {
+    flex: 1;
+    align-self: flex-start;
 }
